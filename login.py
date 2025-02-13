@@ -1,1 +1,1 @@
-print('Pantalla de login')
+print('Pantalla de login actualizada')
